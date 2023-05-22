@@ -1,0 +1,251 @@
+[
+  {
+    "label": "sso dashboard",
+    "key": "sub1",
+    "icon": "FaLaptopCode",
+    "type": null
+  },
+  {
+    "label": "host to host",
+    "key": "sub2",
+    "icon": "FaDiagramProject",
+    "children": [
+      {
+        "label": "Option 5",
+        "key": "sub3",
+        "icon": null
+      },
+      {
+        "label": "Option 6",
+        "key": "sub4",
+        "icon": null
+      },
+      {
+        "label": "Submenu",
+        "key": "sub5",
+        "icon": null,
+        "children": [
+          {
+            "label": "Option 7",
+            "key": "sub6",
+            "icon": null
+          },
+          {
+            "label": "Option 8",
+            "key": "sub7",
+            "icon": null
+          }
+        ],
+        "type": null
+      }
+    ],
+    "type": null
+  },
+  {
+    "label": "account services",
+    "key": "sub8",
+    "icon": "FaServicestack",
+    "children": [
+      {
+        "label": "dashboard",
+        "key": "sub9",
+        "icon": null
+      },
+      {
+        "label": "cheque status inquiry",
+        "key": "sub10",
+        "icon": null,
+        "children": [{
+          "label": "link1",
+          "key": "sub11",
+          "icon": null 
+        }, 
+        {
+          "label": "link2",
+          "key": "sub12",
+          "icon": null
+        },
+        {
+          "label": "link3",
+          "key": "sub13",
+          "icon": null
+        }
+      ]
+      },
+      {
+        "label": "statment request",
+        "key": "sub1110",
+        "icon": null
+      }
+    ],
+    "type": null
+  },
+  {
+    "label": "payments",
+    "key": "sub11sub4",
+    "icon": "FaMoneyCheck",
+    "children": [
+      {
+        "label": "Option 9",
+        "key": "sub119",
+        "icon": null
+      },
+      {
+        "label": "Option 10",
+        "key": "sub11210",
+        "icon": null
+      },
+      {
+        "label": "Option 11",
+        "key": "sub1111",
+        "icon": null
+      },
+      {
+        "label": "Option 12",
+        "key": "sub11212",
+        "icon": null
+      }
+    ],
+    "type": null
+  },
+  {
+    "label": "collections",
+    "key": "ssub11ub4",
+    "icon": "FaMoneyCheck",
+    "children": [
+      {
+        "label": "Option 9",
+        "key": "9sub11",
+        "icon": null
+      },
+      {
+        "label": "Option 10",
+        "key": "10sub11",
+        "icon": null
+      },
+      {
+        "label": "Option 11",
+        "key": "11sub11",
+        "icon": null
+      },
+      {
+        "label": "Option 12",
+        "key": "12sub11",
+        "icon": null
+      }
+    ],
+    "type": null
+  },
+  {
+    "label": "cco",
+    "key": "sub4sub11",
+    "icon": "FaMoneyBill",
+    "children": [
+      {
+        "label": "Option 9",
+        "key": "sub119",
+        "icon": null
+      },
+      {
+        "label": "Option 10",
+        "key": "10sub11",
+        "icon": null
+      },
+      {
+        "label": "Option 11",
+        "key": "11sub11",
+        "icon": null
+      },
+      {
+        "label": "Option 12",
+        "key": "1sub112",
+        "icon": null
+      }
+    ],
+    "type": null
+  },
+  {
+    "label": "ibanking",
+    "key": "sub4",
+    "icon": "FaBuildingColumns",
+    "children": [
+      {
+        "label": "Option 9",
+        "key": "9dssub11",
+        "icon": null
+      },
+      {
+        "label": "Option 10",
+        "key": "10sssub11",
+        "icon": null
+      },
+      {
+        "label": "Option 11",
+        "key": "1sssub111",
+        "icon": null
+      },
+      {
+        "label": "Option 12",
+        "key": "1ssssub112",
+        "icon": null
+      }
+    ],
+    "type": null
+  },
+  {
+    "label": "nafura",
+    "key": "sssub4",
+    "icon": "FaShieldHalved",
+    "children": [
+      {
+        "label": "Option 9",
+        "key": "9ddssswsub11",
+        "icon": null
+      },
+      {
+        "label": "Option 10",
+        "key": "1dccsssub110",
+        "icon": null
+      },
+      {
+        "label": "Option 11",
+        "key": "1sssssub111",
+        "icon": null
+      },
+      {
+        "label": "Option 12",
+        "key": "1sddsub112",
+        "icon": null
+      }
+    ],
+    "type": null
+  },
+  {
+    "label": "virtual accounts",
+    "key": "subs4",
+    "icon": "FaReceipt",
+    "children": [
+      {
+        "label": "Option 9",
+        "key": "9ssswwesub11",
+        "icon": null
+      },
+      {
+        "label": "Option 10",
+        "key": "10dddsub11",
+        "icon": null
+      },
+      {
+        "label": "Option 11",
+        "key": "11ssswesub11",
+        "icon": null
+      },
+      {
+        "label": "Option 12",
+        "key": "1sdddsub112",
+        "icon": null
+      }
+    ],
+    "type": null
+  }
+]

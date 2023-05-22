@@ -1,0 +1,28 @@
+.custom-submenu {
+    backgroundColor: '#4B586A',
+}
+.menu {
+    color: #ffff;
+    &__menu-card {
+        color: #ffff;
+        margin: 5vh 10px 0px 10px;
+        background-color: #6E7D8E;
+        border: #6E7D8E;
+    }
+    &__submenu-label {
+        margin-bottom: 15px;
+        background-color: red;
+    }
+}
+.card {
+    &__content {
+        display: flex;
+        flex-direction: row;
+    }
+    &__text {
+        color: "#ffff" !important;
+    }
+    &__bottom-card-icon {
+        font-size: 30px;
+    }
+}
